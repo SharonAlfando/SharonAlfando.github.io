@@ -1,0 +1,12 @@
+.jumbotron img {
+	width: 25%;
+	border: 3px solid #666;
+}
+
+section{
+	min-height: 420px;
+}
+
+html {
+	scroll-behavior: smooth;
+}
